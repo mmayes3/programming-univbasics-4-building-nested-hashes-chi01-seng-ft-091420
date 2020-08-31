@@ -1,6 +1,6 @@
 def base_hash
   my_hash = {railroads:{}}
-
+  return my_hash
 end
 
 def monopoly_with_second_tier
